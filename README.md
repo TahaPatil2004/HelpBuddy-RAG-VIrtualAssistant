@@ -1,3 +1,4 @@
+![HelpBuddy RAG Chatbot Screenshot](https://github.com/TahaPatil2004/HelpBuddy-RAG-VIrtualAssistant/raw/master/media/HelpBuddy-RAG-Chatbot-06-23-2025_10_08_PM.png)
 
 ## Project Overview
 
