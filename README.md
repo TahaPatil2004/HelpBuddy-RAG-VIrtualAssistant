@@ -1,8 +1,10 @@
-![HelpBuddy RAG Chatbot Screenshot](https://github.com/TahaPatil2004/HelpBuddy-RAG-VIrtualAssistant/raw/master/media/HelpBuddy-RAG-Chatbot-06-23-2025_10_08_PM.png)
 
 ## Project Overview
 
 HelpBuddy is a secure, intelligent Retrieval-Augmented Generation (RAG) chatbot built using LangChain, Gemini Flash 2.5, HuggingFace Transformers and Streamlit. Designed for e-commerce support, it specializes in handling invoice/bill-related queries with strict document validation, red teaming capabilities, and multi-modal interaction. Below is a complete walkthrough of the project architecture and functionality.
+
+![HelpBuddy RAG Chatbot Screenshot](https://github.com/TahaPatil2004/HelpBuddy-RAG-VIrtualAssistant/raw/master/media/HelpBuddy-RAG-Chatbot-06-23-2025_10_08_PM.png)
+
 
 ## Project Highlights
 
