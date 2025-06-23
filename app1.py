@@ -20,7 +20,7 @@ import torch
 # 🔑 API Key setup
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAzic6jWpcN9OHXs0COPXQRHLdlT4nvBB4"
+os.environ["GOOGLE_API_KEY"] = "your api key"
 
 
 # 🎯 LLM + Embeddings
