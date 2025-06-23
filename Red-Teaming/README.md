@@ -33,7 +33,6 @@ Each prompt was analyzed for:
 
 ## What I Learned from Red Teaming
 
-*(Please fill in this section with your insights from the red teaming exercise. Here's a placeholder for how you might structure it)*
 
 * **Key Vulnerabilities Identified:** [Summarize any major weaknesses found, e.g., "Certain prompt patterns could bypass initial filters," or "Model sometimes generated generic responses instead of adhering to context."]
 * **Strengths of the System:** [Mention what the chatbot did well, e.g., "Strong performance in resisting common jailbreak attempts," or "Accurate adherence to invoice context for valid queries."]
@@ -42,14 +41,3 @@ Each prompt was analyzed for:
 
 ---
 
-**To use this:**
-
-1.  **Copy** the entire text block above.
-2.  **Open your `README.md` file** in your local text editor (e.g., VS Code, Sublime Text, Notepad++).
-3.  **Paste** the copied content, replacing your existing text.
-4.  **Crucially, fill in the "What I Learned from Red Teaming" section** with your actual findings.
-5.  **Save** the file.
-6.  **Commit** these changes to your Git repository.
-7.  **Push** the changes to your GitHub remote.
-
-After you push, when you refresh your repository on GitHub, you should see the `README.md` rendered with proper headings, lists, and tables, looking much more organized!
