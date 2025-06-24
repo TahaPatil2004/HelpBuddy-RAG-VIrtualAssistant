@@ -1,3 +1,5 @@
+pip install langchain, langchain-community, langchain-google-genai, google-generativeai, streamlit, faiss-cpu, PyPDF2, gtts, sounddevice, scipy, transformers, torch
+
 import streamlit as st
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores.faiss import FAISS
